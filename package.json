@@ -1,0 +1,27 @@
+{
+  "name": "dict",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "dict": "html-to-json.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unbinding-org/suttacentral-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unbinding-org/suttacentral-data/issues"
+  },
+  "homepage": "https://github.com/unbinding-org/suttacentral-data#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "htmlparser": "^1.7.7",
+    "htmlparser2": "^3.9.2"
+  }
+}
